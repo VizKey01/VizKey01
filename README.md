@@ -1,5 +1,10 @@
 ## Hi My name is Patit Maiprasert 👋
 ### This is my Github Profile
+
+My nickname is "Micky" but you can call me "Mick".This profile presents my path and journey to becoming a programmer.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizKey01)]
+
 <!--
 **VizKey01/VizKey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
