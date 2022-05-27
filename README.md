@@ -1,5 +1,5 @@
 <h1 align = "center">Hi My name is Patit Maiprasert 👋</h1>
-### This is my Github Profile
+<h3>This is my Github Profile</h3>
 
 My nickname is "Micky" but you can call me "Mick".I'm the student in Bodindecha School.This profile presents my path way, project and journey to becoming a programmer.
 
