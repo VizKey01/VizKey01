@@ -1,7 +1,8 @@
 <h1 align = "center">Hi My name is Patit Maiprasert 👋</h1>
 <h3>This is my Github Profile</h3>
 
-My nickname is "Micky" but you can call me "Mick".I'm the student in Bodindecha School.This profile presents my path way, project and journey to becoming a programmer.
+My nickname is "Micky" but you can call me "Mick".
+I'm student from Bodindecha School.This profile presents my path way, project and journey to becoming a programmer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizKey01)
 
@@ -19,8 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Patit Maiprasert</h1>
-<h3 align="center">My nickname is "Micky" but you can call me "Mick".I'm the student in Bodindecha School.This profile presents my path and journey to becoming a programmer.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vizkey01&label=views&color=009dff&style=flat" alt="vizkey01" /> </p>
 
