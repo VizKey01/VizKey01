@@ -1,4 +1,4 @@
-<align = "center"> ##Hi My name is Patit Maiprasert 👋
+<h1 align = "center">Hi My name is Patit Maiprasert 👋
 ### This is my Github Profile
 
 My nickname is "Micky" but you can call me "Mick".This profile presents my path and journey to becoming a programmer.
