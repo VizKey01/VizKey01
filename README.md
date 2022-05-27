@@ -1,10 +1,10 @@
 <h1 align = "center">Hi ,I'm Patit Maiprasert 👋</h1>
-<h3>This is my Github Profile(still in devolopment)</h3>
+<h3>This is my Github Profile (still in devolopment...)</h3>
 
 My nickname is "Micky" but you can call me "Mick".
 I'm student from Bodindecha School.This profile presents my path way, project and journey to becoming a programmer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizKey01)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizKey01)-->
 
 <!--
 **VizKey01/VizKey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
