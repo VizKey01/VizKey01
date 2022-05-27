@@ -1,7 +1,7 @@
-<h1 align = "center">Hi My name is Patit Maiprasert 👋
+<h1 align = "center">Hi My name is Patit Maiprasert 👋</h1>
 ### This is my Github Profile
 
-My nickname is "Micky" but you can call me "Mick".This profile presents my path and journey to becoming a programmer.
+My nickname is "Micky" but you can call me "Mick".I'm the student in Bodindecha School.This profile presents my path way, project and journey to becoming a programmer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizKey01)
 
