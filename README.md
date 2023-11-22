@@ -2,8 +2,9 @@
 <h3>👩‍💻 This is my Github Profile 👩‍💻</h3>
 
 <p>
-My nickname is "Micky" but you can call me 😄 "Mick" 😄. I’m a student 📚 at Chulalongkorn University studying Computer Engineering and Technology.
-<br>This profile presents my path way, project and journey to becoming a programmer. 💻👩‍💻💻
+My nickname is "Micky" but you can call me 😄 "Mick" 😄<br>
+- I’m a student 📚 at Chulalongkorn University studying Computer Engineering and Technology.
+<br>- This profile presents my path way, project and journey to becoming a programmer. 💻👩‍💻💻
 </p>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizKey01)-->
