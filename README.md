@@ -4,26 +4,14 @@
 
 <p>
 My nickname is "Micky" but you can call me 😄 "Mick" 😄<br>
-- I’m a student 📚 at Chulalongkorn University studying Computer Engineering and Technology.
-<br>- This profile presents my path way, project and journey to becoming a programmer. 💻👩‍💻💻
+  <ul>
+    <li>📚 I’m a student at Chulalongkorn University studying Computer Engineering and Technology.</li>
+    <li>💻👩‍💻💻This profile presents my path way, project and journey to becoming a programmer. </li>
+    <li>🚀 </li>
+  </ul>
+
 </p>
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizKey01)-->
-
-<!--
-**VizKey01/VizKey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ###  🛠   Skill and Experience:
@@ -35,8 +23,15 @@ Here are some ideas to get you started:
 
 
 ### 📫   Contact to me:
-<a href="https://fb.com/patit maiprasert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Patit Maiprasert" height="30" width="50" /></a>
-<a href="https://instagram.com/viz_key" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viz_key" height="30" width="50" /></a>
+<a href="www.linkedin.com/in/patit-maiprasert-266bb62a1" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
+</a>
+<a href="https://fb.com/patit maiprasert" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;">
+</a>
+<a href="https://instagram.com/viz_key" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;">
+</a>
 <br>
 
 
