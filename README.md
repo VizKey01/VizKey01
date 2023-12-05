@@ -23,7 +23,7 @@ My nickname is "Micky" but you can call me 😄 "Mick" 😄<br>
 
 
 ### 📫   Contact to me:
-<a href="www.linkedin.com/in/patit-maiprasert-266bb62a1" target="_blank">
+<a href="https://linkedin.com/in/patit-maiprasert-266bb62a1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
 </a>
 <a href="https://fb.com/patit maiprasert" target="_blank">
