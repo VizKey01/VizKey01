@@ -1,4 +1,6 @@
-<h1 align = "center" margin="30px">Hi ,I'm Patit Maiprasert 👋
+<h1 align = "center" margin="0px">Hi ,I'm Patit Maiprasert 👋
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<br>
 <div align="center" padding="20px"><a href="https://linkedin.com/in/patit-maiprasert-266bb62a1" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
   </a>
