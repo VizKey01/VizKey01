@@ -9,9 +9,9 @@
   </a>
   <a href="https://instagram.com/viz_key" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;">
-  </a>
+  </a><!--
   <a href="micmin0101@gmal.com"><img src="https://camo.githubusercontent.com/21235764ee32f0e4cd4bc8c92a5b52d8d1cfb96217343d1df29c9e5f70c59c57/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d476d61696c266c6f676f3d676d61696c266c6162656c3d26636f6c6f723d443134383336266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="27" alt="gmail logo" data-canonical-src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" >
-  </a>
+  </a>-->
   
   <br>
 </div>
