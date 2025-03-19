@@ -25,8 +25,8 @@ My nickname is "Micky" but you can call me 😄 "Mick" 😄 This profile present
  <br> project and journey to becoming a programmer.<br>
   <ul>
     <li>📚 I’m a student at Chulalongkorn University studying Computer Engineering and Technology.</li>
-    <li>💻👩‍💻💻 Presently studying NLP with an emphasis on application development.</li>
-    <li>🎮 I like to play games, play sports, or play music. and study about investing in my free time. </li>
+    <li>💻👩‍💻💻 Presently studying Quantum Computing with an emphasis on application development.</li>
+    <li>🎮 I like to play games, play sports, or play music. and doing some business in my free time. </li>
     <li>🚀 Aim to be developer and create new innovations to help make the world better. </li>
   </ul>
 </p>
